@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Nav />
-      <h1>Testing</h1>
+      <Header/>
     </div>
   );
 }

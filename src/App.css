@@ -4,6 +4,10 @@
 
 body{
   margin: 0px;
+  /* background: url('./Images//bgimg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat; */
+
 }
 
 .navbar{
@@ -25,4 +29,18 @@ padding: 25px;
 .navbar a:hover{
   color: lime;
   text-shadow: 3px 3px 10px limegreen;
+}
+
+
+.header{
+  /* background: url('./Images/bgimg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat; */
+  height: 500px;
+
+}
+
+.header h1{
+  /* color: ghostwhite; */
+  
 }
